@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RakshyaKC
-- 👀 I’m interested in Python and Data Science Projects
-- 🌱 I’m currently learning Pandas
+- 👀 I’m interested in Python and Data Science/ML Projects
+- 🌱 I’m currently learning nltk
 - 
 - 📫 How to reach me 
 rakshya1771@gmail.com or my linkedin profile : https://www.linkedin.com/in/rakshya-2199/
