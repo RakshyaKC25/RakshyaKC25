@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Machine Learning/Deep Learning Projects<br>I'm looking to collaborate on Python Projects of Any kind. Something related to integrating APIs would be awesome!!<br>I'm looking for a working student job or an internship to work with an organization and gain some exposure.<br>I am currently Learning CNNs.<br>Ask me about ANN, CNN, <br>and Transformers. I have been studying them. Would love to share and learn more.<br>Fun Fact: I can make jokes out of thin air and make people laugh. You will never be bored in my company. 
+I'm currently working on Machine Learning/Deep Learning Projects<br>I'm looking to collaborate on Python Projects of Any kind. Something related to integrating APIs would be awesome!!<br>I'm looking for a working student job or an internship to work with an organization and gain some exposure.<br>I am currently Learning CNNs.<br>We can discuss about ANN, CNN, <br>and Transformers. Would love to share and learn more.<br>Fun Fact: I can make jokes out of thin air and make people laugh. You will never be bored in my company. 
 
 
 ## 🌐 Socials:
