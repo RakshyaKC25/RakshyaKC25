@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Python developer from Nepal currently Residing in Germany.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakshyakc25&label=Profile%20views&color=0e75b6&style=flat" alt="rakshyakc25" /> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" width = "400" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 
 <p align="left"> <a href="https://twitter.com/rakshya1771" target="blank"><img src="https://img.shields.io/twitter/follow/rakshya1771?logo=twitter&style=for-the-badge" alt="rakshya1771" /></a> </p>
 
