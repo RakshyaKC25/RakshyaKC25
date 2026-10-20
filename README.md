@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Economic Data Sales Analysis<br><br>🌱 I’m currently learning TensorFlow<br><br>👯 I’m looking to collaborate on Python Projects of Any kind. Something related to integrating APIs would be awesome!!<br><br>🤝 I’m looking for help with APIs<br><br>💬 Ask me about CNNS and RNN<br><br>📫 How to reach me rakshya1771@gmail.com<br><br>⚡ Fun fact I can make Jokes out of thin air. You will never be bored with me.
+🔭<br>👯 I’m looking to collaborate on Python Projects of Any kind. Something related to integrating APIs would be awesome!!<br><br>🤝 I’m looking for help with APIs<br><br>💬 Ask me about CNNS and RNN<br><br>📫 How to reach me rakshya1771@gmail.com<br><br>⚡ Fun fact I can make Jokes out of thin air. You will never be bored with me.
 
   
 
